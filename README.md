@@ -9,6 +9,10 @@
 
 ***2.  MARCO TEÓRICO***   
 
-
+![]()
+![]()
+![]()
+![]()
+![]()
 ***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
  
