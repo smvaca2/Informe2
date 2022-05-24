@@ -119,6 +119,9 @@ ohmmetro mostradas*
 
 ![]()
 
+**=====================EJERCICIOS CAPITULO 4==========================**
+
+*2)Demuestre que hay 3.6x10<sub>6</sub> joules en un kilowatt-hora*
 
 
 
