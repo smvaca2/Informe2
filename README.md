@@ -21,7 +21,11 @@
 
 *2) Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos*
 
+La formula de la corriente es: I=V/R
+
 *4) Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos*
+
+La formula de la resistencia es: R=V/I
 
 *6) En cierto circuito, I=5 mA cuando V=1V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito*
 
@@ -37,6 +41,8 @@
 
 *8) Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo,
 rojo, oro*
+
+Resistencia= 8200Ω±5% = 8,2K Ω±5%
 
 *10) ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?*
 
