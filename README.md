@@ -121,8 +121,68 @@ ohmmetro mostradas*
 
 **=====================EJERCICIOS CAPITULO 4==========================**
 
-*2)Demuestre que hay 3.6x10<sub>6</sub> joules en un kilowatt-hora*
+*2)Demuestre que hay 3.6x10<sup>6</sup> joules en un kilowatt-hora*
 
+*4)¿Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+*6) Convierta las siguientes cantidades en kilowatts:*
+
+*a)1000W*
+
+*b)3750W*
+
+*c)160W*
+
+*d)50,000W*
+
+*8)Convierta las siguientes cantidades en miliwatts:*
+
+*a)1W*
+
+*b)0.4W*
+
+*c)0.002W*
+
+*d)0.0125W*
+
+*10)Convierta las siguientes cantidades en watts:*
+
+*a)1.5kW*
+
+*b)0.5MW*
+
+*c)350mW*
+
+*d)9000µW*
+
+*12)Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos
+kilowatts-hora de energía consume?*
+
+*14)Convierta 5x10<sup>6</sup> watts-minutos en kWh*
+
+*16)¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47Ω para consumir 25 J?*
+
+*18)Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?*
+
+*20)¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?*
+
+*22)Si entre los extremos de un resistor de 680Ω existen 60 V, ¿cuál es la potencia?*
+
+*24)Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido*
+
+*26)Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.*
+
+*28)En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resisto*
+
+![]()
+
+*30) Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?*
+
+*32)Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?*
+
+*34)Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?*
+
+*36)Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?*
 
 
 
