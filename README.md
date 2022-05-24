@@ -17,3 +17,17 @@
 
 ***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
  
+**=====================EJERCICIOS CAPITULO 3==========================**
+
+*2) Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos*
+
+*4) Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos*
+
+*6) En cierto circuito, I=5 mA cuando V=1V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito*
+
+*a) V=1.5V*
+*b) V=2V*
+*c) V=3V*
+*d) V=4V*
+*e) V=10V*
+
