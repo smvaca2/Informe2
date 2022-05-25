@@ -13,6 +13,9 @@
 ![](https://github.com/smvaca2/Informe2/blob/db7498069e777f29be903f85a6e94b7db7a522e8/formulas.PNG)
 ![](https://github.com/smvaca2/Informe2/blob/0dabf9482a4802fcbf14f6ff2aecda4445cb1b19/Unidades%20con%20prefijos%20metricos.PNG)
 ![](https://github.com/smvaca2/Informe2/blob/0dabf9482a4802fcbf14f6ff2aecda4445cb1b19/medicion%20fallas.PNG)
+![](https://github.com/smvaca2/Informe2/blob/c6287d1221dc006500ba0896a464f04981cd48a4/energia%20y%20potencia.PNG)
+![](https://github.com/smvaca2/Informe2/blob/c6287d1221dc006500ba0896a464f04981cd48a4/potencia%20en%20un%20circuito.PNG)
+![](https://github.com/smvaca2/Informe2/blob/c6287d1221dc006500ba0896a464f04981cd48a4/CONVERSION%20DE%20ENERGIA.PNG)
 ![]()
 
 ***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
