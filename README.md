@@ -246,14 +246,38 @@ P=1.470588235x10<sup>-8</sup>W
 
 **30) Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?**
 
-Psalida= 1.25V
+I=V/R
+
+I=1.25/10=0.125A
+
+Produce un promedio de 0.125A durante 90 horas de acuerdo al voltaje
 
 **32)Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?**
 
+24h=x/1.5A
+
+x=24h x 1.5A
+
+x= 36Ah
+
 **34)Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?**
+
+650mAh= 0.65Ah
+
+48h=0.65Ah/x , despejo x y el valor de x será mi corriente promedio
+
+x=0.014A
+
+El valor promedio de corriente será de 0.014A
 
 **36)Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?**
 
+Eficiencia= Psalida/Pentrada 
 
+Psalida= Eficiencia x 0.85
+
+Psalida= 5x0.85 = 4.25W
+
+Se cumple que el valor de salida es menor al valor de entrada
 
 
