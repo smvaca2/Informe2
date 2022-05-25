@@ -16,6 +16,7 @@
 ![](https://github.com/smvaca2/Informe2/blob/c6287d1221dc006500ba0896a464f04981cd48a4/energia%20y%20potencia.PNG)
 ![](https://github.com/smvaca2/Informe2/blob/c6287d1221dc006500ba0896a464f04981cd48a4/potencia%20en%20un%20circuito.PNG)
 ![](https://github.com/smvaca2/Informe2/blob/c6287d1221dc006500ba0896a464f04981cd48a4/CONVERSION%20DE%20ENERGIA.PNG)
+![](https://github.com/smvaca2/Informe2/blob/e34469b3eff47f2174d4feb01df82e90b9fd360c/eficacia%20fuente%20de%20potencia.PNG)
 
 **Fuentes de potencia** 
 
