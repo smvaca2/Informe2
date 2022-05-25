@@ -44,13 +44,27 @@ rojo, oro*
 
 Resistencia= 8200Ω±5% = 8,2K Ω±5%
 
+![](https://github.com/smvaca2/Informe2/blob/99fde691caccfa3925753e13d7dbe614d89f34b0/ej8.PNG)
+
 *10) ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?*
 
 ![]()
 
 *12)Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?*
 
+Para este ejercicio utilizo la medida de la corriente en amperios:
+
+100mA= 0.1A, 150mA= 0.15mA
+
+Encuentro mi resistencia con el valor de la corriente inicial:
+
+r=20/0.1 = 200Ω -----> con este valor de resistencia calculo un nuevo voltaje con la corriente deseada: V= (0.15A)x(200Ω)=30V
+
+Si la fuente inicial era de 20V tiene que incrementar 10V ya que el voltaje requerido para 0.15A es de 30V
+
 *14)¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta*
+
+
 
 *16) Determine la corriente en cada caso:*
 
