@@ -16,7 +16,15 @@
 ![](https://github.com/smvaca2/Informe2/blob/c6287d1221dc006500ba0896a464f04981cd48a4/energia%20y%20potencia.PNG)
 ![](https://github.com/smvaca2/Informe2/blob/c6287d1221dc006500ba0896a464f04981cd48a4/potencia%20en%20un%20circuito.PNG)
 ![](https://github.com/smvaca2/Informe2/blob/c6287d1221dc006500ba0896a464f04981cd48a4/CONVERSION%20DE%20ENERGIA.PNG)
-![]()
+
+**Fuentes de potencia** 
+
+Una fuente de alimentación es un componente esencial de cualquier dispositivo electrónico ya que es ella quien se encarga de darle vida.
+
+**Amperes-hora nominales de baterías**
+
+Los ampere-hora nominales significan que la batería puede suministrar un promedio de un ampere de corriente hacia una carga durante una hora con la salida de voltaje nominal
+
 
 ***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
  
