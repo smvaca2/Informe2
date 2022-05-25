@@ -232,11 +232,21 @@ R=25Ω
 
 **26)Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.**
 
+Usando la formula P=I<sup>2</sup>R y teniendo en cuenta las unidades:
+
+10mA= 0.010A y 6.8kΩ=6800
+
+P=(0.010)<sup>2</sup>/6800
+
+P=1.470588235x10<sup>-8</sup>W
+
 **28)En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resisto**
 
 ![]()
 
 **30) Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?**
+
+Psalida= 1.25V
 
 **32)Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?**
 
