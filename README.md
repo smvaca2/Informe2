@@ -19,11 +19,11 @@
  
 **=====================EJERCICIOS CAPITULO 3==========================**
 
-*2) Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos*
+**2) Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos**
 
 La formula de la corriente es: I=V/R
 
-*4) Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos*
+**4) Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos*
 
 La formula de la resistencia es: R=V/I
 
