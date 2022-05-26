@@ -2,10 +2,9 @@
 ***1.  OBJETIVOS***
 
 _Estudiar las leyes de Kirchhoff
-
-_
-
-
+_Identificar la relación: corriente, voltaje y resistencia mediante la ley de ohm
+_Familarizar los prefijos métricos con la resolución y lectura de datos planteados en los diferentes problemas
+_Aplicar los conceptos y teoría de potencia para la resolución de problemas
 
 ***2.  MARCO TEÓRICO***   
 
@@ -338,6 +337,8 @@ Se cumple que el valor de salida es menor al valor de entrada
 ***4)Video***
 
 ***5.Conclusiones***
+
+Con la elaboración de este informe se pudo estudiar y entender la ley de ohm poniendo en práctica los conocimientos y la teoría para la resolución de problemas. Con la resolución de muchos de estos problemas se puso en práctica el uso de los prefijos métricos puesto que para la resolución de estos era necesario la conversión de algunos datos. Este informe a la vez sirvió para conocer el manejo de la ley de ohm en combinación de la potencia, la conversión de unidades por horas, minutos y segundos y la identificación del porcentaje de eficacia de la potencia.
 
 ***6.Bibliografía***
 
