@@ -42,13 +42,23 @@ La formula de la resistencia es: R=V/I
 
 *a) V=1.5V*
 
+I=7.5mA
+
 *b) V=2V*
+
+I=10mA
 
 *c) V=3V*
 
+I=15mA
+
 *d) V=4V*
 
+I=20mA
+
 *e) V=10V*
+
+I=50mA
 
 **8) Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo,
 rojo, oro**
@@ -59,7 +69,11 @@ Resistencia= 8200Ω±5% = 8,2K Ω±5%
 
 **10) ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?**
 
-![]()
+I=V/R
+
+a)50/3300=15mA       b)75/3900=19.23mA       c)100/4700mA=21.28mA
+
+A tiene más corriente y A tiene menos
 
 **12)Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?**
 
@@ -75,7 +89,7 @@ Si la fuente inicial era de 20V tiene que incrementar 10V ya que el voltaje requ
 
 **14)¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta**
 
-
+Si debido a que cuando aumenta el voltaje, también la corriente, es decir son proporcionales
 
 **16) Determine la corriente en cada caso:**
 
@@ -91,31 +105,55 @@ Si la fuente inicial era de 20V tiene que incrementar 10V ya que el voltaje requ
 
 **18)Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor**
 
+I=V/R
+
+I=12/3300= 3.6mA
+
+min=3.42, max=3.78
+
 **20)Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor**
+
+I=V/R
+
+I=12/37.4=0.32A
 
 **22)El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito
 si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje
 a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?**
 
-![]()
+120-100=20v
+
+I=V/R  I=20/8=2.5A
 
 **24)Calcule el voltaje para cada valor de I y R:**
 
 *a)I=1mA, R=10Ω*
 
+V=0.01V
+
 *b)I=50mA, R=33Ω*
+
+V=1.65V
 
 *c)I=3A, R=5.6Ω*
 
+V=16.8V
+
 *d)I=1.6mA, R=2.2kΩ*
+
+V=3.52V
 
 *e)I=250µA, R=1.0kΩ*
 
+V=0.25V
+
 *f)I=500mA, R=1.5MΩ*
+
+v=7500000V
 
 *g)I=850µA, R=10MΩ*
 
-*h)I=75µA, R=47Ω
+V=850V
 
 **26)Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas**
 
@@ -335,6 +373,8 @@ Psalida= 5x0.85 = 4.25W
 Se cumple que el valor de salida es menor al valor de entrada
 
 ***4)Video***
+
+https://youtu.be/Osvq5oC-_OU
 
 ***5.Conclusiones***
 
