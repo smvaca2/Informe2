@@ -178,46 +178,60 @@ R=60Ω-15Ω= 45Ω
 **36)En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de
 ohmmetro mostradas**
 
-![]()
+![](https://github.com/smvaca2/Informe2/blob/349795d40e3dcf9a0fa60a0614c406b451b6d50a/ej36.PNG)
 
 **=====================EJERCICIOS CAPITULO 4==========================**
 
 **2)Demuestre que hay 3.6x10<sup>6</sup> joules en un kilowatt-hora**
 
+P=W/t -------> 1kW=1000J 
+
+1000/h*3600s= 3.6x10<sup>6</sup>J
+
 **4)¿Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+Uso la formula de P=W/t
+
+5h=18000s
+
+P=7500/18000s=0.41W
 
 **6) Convierta las siguientes cantidades en kilowatts:**
 
-*a)1000W*
+*a)1000W*=1kW
 
-*b)3750W*
+*b)3750W*=3.75kW
 
-*c)160W*
+*c)160W*=0.16kW
 
-*d)50,000W*
+*d)50,000W*=50kW
 
 **8)Convierta las siguientes cantidades en miliwatts:**
 
-*a)1W*
+*a)1W*=1000mW
 
-*b)0.4W*
+*b)0.4W*=400mW
 
-*c)0.002W*
+*c)0.002W*=2mW
 
-*d)0.0125W*
+*d)0.0125W*=12.5mW
 
 **10)Convierta las siguientes cantidades en watts:**
 
-*a)1.5kW*
+*a)1.5kW*=1500W
 
-*b)0.5MW*
+*b)0.5MW*=5x10<sup>5</sup>W
 
-*c)350mW*
+*c)350mW*=0.35W
 
-*d)9000µW*
+*d)9000µW*=9x10<sup>-3</sup>
 
 **12)Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos
 kilowatts-hora de energía consume?**
+
+P=W/t  ------> W=Pt
+
+W=(300W)(2592000s)=(777600000J)/3600J=216000kW
 
 **14)Convierta 5x10<sup>6</sup> watts-minutos en kWh**
 
