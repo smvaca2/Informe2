@@ -120,31 +120,60 @@ a través del reóstato es la diferencia entre el voltaje del elemento calentado
 
 **26)Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas**
 
-![]()
+![](https://github.com/smvaca2/Informe2/blob/fa9a3ee989844551ab73dccb2423f32f14ac14e1/ej3.PNG)
+
+Utilizando la formula V=I*R
+
+a)3mA*27kΩ=3x10<sup>-3</sup>A*27x10<sup>3</sup>Ω=81V
+
+b)5µA*100MΩ= 5x10<sup>-6</sup>A*100x10<sup>6</sup>Ω=500V
+
+c)2.5A*47Ω=117.5V
 
 **28)Encuentre la resistencia de un reóstato para cada valor de V e I:**
 
+Para cada uno de los literales aplicaré directamente la formula de R=V/I
+
 *a)V=10V, I=2A*
+
+R=10V/2A=5Ω
 
 *b)V=90V, I=45A*
 
+R=90V/45A=2Ω
+
 *c)V=50V, I=5A*
+
+R=50V/5A=10Ω
 
 *d)V=5.5V, I=10A*
 
+R=5.5V/10A=0.55Ω
+
 *e)V=150V, I=0.5A*
 
+R=150V/0.5A=300Ω
+
 **30)Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?**
+
+Usando la formula de R=I/V
+
+R=6V/2x10<sup>-3</sup>A =3000Ω
 
 **32)Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un
 amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias**
 
-![]()
+Para conocer la resistencia del dispositivo conociendo solamente el voltaje, tendría que medir la corriente y de esta manera con la ley de ohm aplicando la formula 
+R=(V/I) tendría el valor de mi resisntecia
 
 **34)Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente
 excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15Ω**
 
-![]()
+Usando la formula R=V/I
+
+R=120V/2A = 60Ω
+
+R=60Ω-15Ω= 45Ω
 
 **36)En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de
 ohmmetro mostradas**
