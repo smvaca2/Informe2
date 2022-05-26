@@ -292,4 +292,20 @@ Psalida= 5x0.85 = 4.25W
 
 Se cumple que el valor de salida es menor al valor de entrada
 
+***4)Video***
+
+***5.Conclusiones***
+
+***6.Bibliografía***
+
+_Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson.
+
+_Nilsson, J. W., Riedel, S. A., Cázares, G. N., & Fernández, A. S. (1995). Circuitos eléctricos. Addison-Wesley.
+
+_Johnson, D. E., Hilburn, J. L., Johnson, J. R., & Pozo, V. G. (1987). Análisis básico de circuitos eléctricos (Vol. 30). Prentice-Hall Hispanoamericana.
+
+_Mora, C., Sánchez-Sánchez, R., & Velázquez-Arteaga, L. J. (2015). Enseñando la Ley de Ohm usando Aprendizaje Activo de la Física a Nivel Medio Superior en el Distrito Federal de México. Latin-American Journal of Physics Education, 9.
+
+_Jiménez, R. H. (2003). Las leyes de Kirchhoff y las redes electricas de corriente continua. Ingeniería. Revista de la Universidad de Costa Rica, 13(1-2), 77-83.
+
 
