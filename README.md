@@ -124,9 +124,9 @@ a través del reóstato es la diferencia entre el voltaje del elemento calentado
 
 Utilizando la formula V=I*R
 
-a)(3mA)*(27kΩ)=3x10<sup>-3</sup>A*27x10<sup>3</sup>Ω=81V
+a)(3mA)*(27kΩ)=(3x10<sup>-3</sup>A) * (27x10<sup>3</sup>Ω)=81V
 
-b)(5µA)*(100MΩ)= 5x10<sup>-6</sup>A*100x10<sup>6</sup>Ω=500V
+b)(5µA)*(100MΩ)= (5x10<sup>-6</sup>A) * (100x10<sup>6</sup>Ω)=500V
 
 c)2.5A*47Ω=117.5V
 
