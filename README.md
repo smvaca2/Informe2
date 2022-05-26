@@ -1,9 +1,9 @@
 # Informe2
 ***1.  OBJETIVOS***
 
+_Estudiar las leyes de Kirchhoff
 
-
-***1.2 OBJETIVOS ESPECÍFICOS***
+_
 
 
 
